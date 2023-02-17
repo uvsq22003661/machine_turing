@@ -1,0 +1,16 @@
+init : [q0]
+accept : [qacc]
+etats : [q0],[qacc]
+nb_ruban : 1
+
+q0,0
+q0,0
+>
+
+q0,1
+qacc,1
+-
+
+q0,_
+q0,_
+-
