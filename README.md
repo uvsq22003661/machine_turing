@@ -1,10 +1,10 @@
 # Turing Machine
 Projet réalisé dans le cadre de mes études visant à concevoir une machine de Turing.
-Realisé en binome avec Maya SANTINI
+Realisé en binome avec Thanushan PIRABAKARAN.
 
 ---
 
-On considérere uniquement des machines qui effectuent un calcul, avec un seul état final quidénote la fin du calcul.  
+On considère uniquement des machines qui effectuent un calcul, avec un seul état final qui dénote la fin du calcul.  
 L'alphabet d’entrée est {0, 1}, l'alphabet de travail {0, 1, □} et les machines ont k bandes.
 
 ---
