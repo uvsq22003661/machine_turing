@@ -1,6 +1,6 @@
 # Turing Machine
-Projet réalisé dans le cadre de mes études visant à concevoir une machine de Turing universelle.
-Realisé en binome avec Thanushan PIRABAKARAN.
+Projet réalisé dans le cadre de mes études visant à concevoir une machine de Turing universelle en Python.
+Réalisé en binome avec Thanushan PIRABAKARAN.
 
 ---
 
